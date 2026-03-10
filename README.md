@@ -39,13 +39,19 @@ Responsável por Evidências: responsável por registrar prints, imagens e docum
 
 Responsável pelo Repositório: responsável pela organização do repositório Git e controle de versões do projeto.
 
-Integrante Função
+Integrante e Função
 
 Gabriel -  Líder do Sprint
 
 Tiffany - Responsável Técnico
 
-Aluno 3	Documentação ABNT
+Aluno 3 -	Documentação ABNT
+
+Aluno 4	-esponsável pela Cartilha
+
+Aluno 5	- Responsável por Evidências
+
+Aluno 6 - Responsável pelo Repositório
 
 Escopo Inicial
 
