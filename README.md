@@ -41,8 +41,10 @@ Responsável pelo Repositório: responsável pela organização do repositório 
 
 Integrante Função
 
-aluno 1	Líder do Sprint
-Aluno 2	Responsável Técnico
+Gabriel -  Líder do Sprint
+
+Tiffany - Responsável Técnico
+
 Aluno 3	Documentação ABNT
 
 Escopo Inicial
