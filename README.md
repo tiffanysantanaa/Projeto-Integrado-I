@@ -17,41 +17,47 @@ Semestre: 1º semestre de 2026
 
 Integrantes do Grupo
 
-(Nome do colega)
+Tiffany Santana de oliveira - RA: 427023379554
 
-(Nome do colega)
+Victor Hiago Kenji Saura - RA: 120376679554
 
-(Nome do colega)
+Guilherme Santos de Santana - RA: 427313179554
+
+Davi Emanuel Ribeiro da Silva - RA: 429676479554
+
+Marcelo Cruz Souza da Silva - RA: 402082279554
+
+Gabriel Souza Paula - RA: 426668679554
 
 Distribuição Inicial de Papéis
 
 Para organização do projeto, os membros do grupo assumirão os seguintes papéis:
 
-Líder do Sprint: responsável por organizar as atividades do grupo, acompanhar os prazos e realizar a comunicação com o professor.
+Líder do Sprint : responsável por organizar as atividades do grupo, acompanhar os prazos e realizar a comunicação com o professor.
 
-Responsável pela Documentação ABNT: responsável pela organização e formatação do relatório conforme as normas acadêmicas.
+Responsável pela Documentação ABNT : responsável pela organização e formatação do relatório conforme as normas acadêmicas.
 
-Responsável Técnico: responsável pela pesquisa de conteúdos relacionados à segurança digital e à LGPD.
+Responsável Técnico : responsável pela pesquisa de conteúdos relacionados à segurança digital e à LGPD.
 
-Responsável pela Cartilha: responsável pela elaboração do conteúdo e organização visual da cartilha educativa.
+Responsável pela Cartilha : responsável pela elaboração do conteúdo e organização visual da cartilha educativa.
 
-Responsável por Evidências: responsável por registrar prints, imagens e documentos que comprovem o desenvolvimento do projeto.
+Responsável por Evidências : responsável por registrar prints, imagens e documentos que comprovem o desenvolvimento do projeto.
 
-Responsável pelo Repositório: responsável pela organização do repositório Git e controle de versões do projeto.
+Responsável pelo Repositório : responsável pela organização do repositório Git e controle de versões do projeto.
 
 Integrante e Função
 
 Gabriel -  Líder do Sprint
 
-Tiffany - Responsável Técnico
+Guilherme - Responsável Técnico
 
-Aluno 3 -	Documentação ABNT
+Davi  -	Documentação ABNT
 
-Aluno 4	-esponsável pela Cartilha
+Marcelo - esponsável pela Cartilha
 
-Aluno 5	- Responsável por Evidências
+Victor - Responsável por Evidências
 
-Aluno 6 - Responsável pelo Repositório
+Tiffany - Responsável pelo Repositório
 
 Escopo Inicial
 
