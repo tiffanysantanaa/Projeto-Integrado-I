@@ -1,94 +1,86 @@
-# Projeto-Integrado-I
+
+# 📘 Projeto Integrado I
+
+##  Descrição
+
 Este repositório reúne os materiais do Projeto Integrado I do curso de Análise e Desenvolvimento de Sistemas. O objetivo é desenvolver uma cartilha de segurança digital para pequenas empresas, abordando boas práticas de proteção de dados e conceitos básicos da LGPD.
 
-Tema do Projeto
+---
+
+##  Tema do Projeto
 
 Cartilha de Segurança Digital para Pequenas Empresas (LGPD básica)
 
- Identificação do Projeto
+---
 
-Curso: Análise e Desenvolvimento de Sistemas
+##  Identificação do Projeto
 
-Disciplina: Projeto Integrado I
+* **Curso:** Análise e Desenvolvimento de Sistemas
+* **Disciplina:** Projeto Integrado I
+* **Professor:** Roberto Maia
+* **Semestre:** 1º semestre de 2026
 
-Professor: Roberto Maia
+---
 
-Semestre: 1º semestre de 2026
+## 👨‍💻 Integrantes do Grupo
 
-Integrantes do Grupo
+* Tiffany Santana de Oliveira - RA: 427023379554
+* Victor Hiago Kenji Saura - RA: 120376679554
+* Guilherme Santos de Santana - RA: 427313179554
+* Davi Emanuel Ribeiro da Silva - RA: 429676479554
+* Marcelo Cruz Souza da Silva - RA: 402082279554
+* Gabriel Souza Paula - RA: 426668679554
 
-Tiffany Santana de oliveira - RA: 427023379554
+---
 
-Victor Hiago Kenji Saura - RA: 120376679554
+##  Distribuição de Papéis
 
-Guilherme Santos de Santana - RA: 427313179554
+Para organização do projeto, os membros do grupo assumiram os seguintes papéis:
 
-Davi Emanuel Ribeiro da Silva - RA: 429676479554
+* **Líder do Sprint:** responsável por organizar as atividades, acompanhar prazos e comunicação com o professor
+* **Responsável pela Documentação ABNT:** organização e formatação conforme normas acadêmicas
+* **Responsável Técnico:** pesquisa sobre segurança digital e LGPD
+* **Responsável pela Cartilha:** elaboração e organização do conteúdo
+* **Responsável por Evidências:** registro de imagens e documentos do projeto
+* **Responsável pelo Repositório:** organização do Git e controle de versões
 
-Marcelo Cruz Souza da Silva - RA: 402082279554
+---
 
-Gabriel Souza Paula - RA: 426668679554
+##  Função de Cada Integrante
 
-Distribuição Inicial de Papéis
+* Gabriel — Líder do Sprint
+* Guilherme — Responsável Técnico
+* Davi — Documentação ABNT
+* Marcelo — Responsável pela Cartilha
+* Victor — Responsável por Evidências
+* Tiffany — Responsável pelo Repositório
 
-Para organização do projeto, os membros do grupo assumirão os seguintes papéis:
+---
 
-Líder do Sprint : responsável por organizar as atividades do grupo, acompanhar os prazos e realizar a comunicação com o professor.
+##  Escopo do Projeto
 
-Responsável pela Documentação ABNT : responsável pela organização e formatação do relatório conforme as normas acadêmicas.
+O projeto tem como objetivo desenvolver uma cartilha de segurança digital voltada para pequenas empresas, com orientações simples e práticas para proteção de dados e sistemas.
 
-Responsável Técnico : responsável pela pesquisa de conteúdos relacionados à segurança digital e à LGPD.
+###  Serão abordados temas como:
 
-Responsável pela Cartilha : responsável pela elaboração do conteúdo e organização visual da cartilha educativa.
+* criação de senhas seguras
+* prevenção contra phishing
+* realização de backup de dados
+* uso seguro de redes Wi-Fi
+* importância da atualização de sistemas
+* noções básicas da LGPD
 
-Responsável por Evidências : responsável por registrar prints, imagens e documentos que comprovem o desenvolvimento do projeto.
+---
 
-Responsável pelo Repositório : responsável pela organização do repositório Git e controle de versões do projeto.
-
-Integrante e Função
-
-Gabriel -  Líder do Sprint
-
-Guilherme - Responsável Técnico
-
-Davi  -	Documentação ABNT
-
-Marcelo - esponsável pela Cartilha
-
-Victor - Responsável por Evidências
-
-Tiffany - Responsável pelo Repositório
-
-Escopo Inicial
-
-O projeto tem como objetivo desenvolver uma cartilha de segurança digital voltada para pequenas empresas.
-A cartilha apresentará orientações simples e práticas para ajudar pequenas empresas a proteger seus dados e sistemas contra ameaças digitais.
-
-Serão abordados temas como:
-
-criação de senhas seguras
-
-prevenção contra phishing
-
-realização de backup de dados
-
-uso seguro de redes Wi-Fi
-
-importância da atualização de sistemas
-
-noções básicas da LGPD
-
-Objetivo Geral
+##  Objetivo Geral
 
 Desenvolver uma cartilha educativa de segurança digital para pequenas empresas, apresentando boas práticas de proteção de dados e conceitos básicos da LGPD.
 
-Objetivos Específicos
+---
 
-Identificar ameaças comuns à segurança digital em pequenas empresas.
+##  Objetivos Específicos
 
-Explicar práticas simples de proteção de dados e segurança da informação.
-
-Elaborar uma cartilha com linguagem acessível e educativa.
-
-Conscientizar pequenas empresas sobre a importância da LGPD.
-
+* Identificar ameaças comuns à segurança digital em pequenas empresas
+* Explicar práticas simples de proteção de dados e segurança da informação
+* Elaborar uma cartilha com linguagem acessível e educativa
+* Conscientizar pequenas empresas sobre a importância da LGPD
