@@ -27,7 +27,11 @@ Davi Emanuel Ribeiro da Silva - RA: 429676479554
 
 Marcelo Cruz Souza da Silva - RA: 402082279554
 
-Gabriel Souza Paula - RA: 426668679554
+Gabriel Souza Paula - RA: 
+426668679554
+
+Adailton Veras Pereira Junior - RA:
+427238679554
 
 Distribuição Inicial de Papéis
 
